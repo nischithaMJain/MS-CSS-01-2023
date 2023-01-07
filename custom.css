@@ -1,0 +1,11 @@
+section{
+  background-color: red;
+}
+h1{
+  color: white;
+  font-family:'Courier New', Courier, monospace;
+  font-size: 14px;
+}
+.section-name{
+  color: #2ddf5c;
+}
